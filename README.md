@@ -10,4 +10,6 @@ currently knee-deep in:
 - ☁️ speedrunning yet another TryHackMe path with snacks and sheer willpower
 
 this profile is half archive, half experiment.  
-feel free to poke around, judge my commits, or send cat memes.
+feel free to poke around, judge my commits, or send cat memes.  
+
+🧃 if you'd rather get to know me *auf Deutsch*, my [portfolio site](https://amandawinata.vercel.app/) might be worth a visit.
